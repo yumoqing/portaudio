@@ -1,4 +1,5 @@
 # PortAudio - portable audio I/O library
+***JUST ADD recipe for it*** to make it can be compiled with python-for-andorid
 
 PortAudio is a portable audio I/O library designed for cross-platform
 support of audio. It uses either a callback mechanism to request audio 
