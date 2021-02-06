@@ -8,10 +8,7 @@ from multiprocessing import cpu_count
 
 class PARecipe(NDKRecipe):
 	'''
-	.. versionchanged:: 0.7.1
-		rewrote recipe to support the python bindings (cv2.so) and enable the
-		build of most of the libraries of the opencv's package, so we can
-		process images, videos, objects, photos...
+    test recipe
 	'''
 	version = '2.0'
 	url = 'https://github.com/yumoqing/portaudio/archive/master.zip'
